@@ -1,0 +1,9 @@
+curl https://api.github.com/repos/Satya177/github-final-project
+{
+  "name": "github-final-project",
+  "full_name": "Satya177/github-final-project",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
